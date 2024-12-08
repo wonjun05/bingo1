@@ -14,4 +14,4 @@
 빙고가 먼저 3개가 되는 쪽이 이김
 ## 실행방법
 1. 다운로드 받은 파일을 압축해제
-2. bingo1_main/game_project/play.py 로 실행해주세요
+2. game_project/game_project/play.py 로 실행해주세요
